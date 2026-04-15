@@ -1,2 +1,2 @@
-# personal-portfolio
+# Personal-Portfolio
 A modern and responsive personal portfolio website built to showcase my projects, technical skills, and achievements.
